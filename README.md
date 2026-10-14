@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Tejas Dhavane 👋
 
-<!--
-**tejasdhavane2629-byte/tejasdhavane2629-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year AI & Data Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•Python
+•Git & GitHub
+•HTML
+•CSS
+•Linux
+
+🚀 Currently Learning
+
+•Data Structures & Algorithms
+•Machine Learning
+•Artificial Intelligence
+•Cyber Security
+
+🎯 Goals
+
+•Become a Skilled Software Engineer
+•Build Real-World Projects
+•Contribute to Open Source
+•Work at Top Tech Companies
+
+📈 GitHub Journey Learning, Building and Growing Every Day 🚀
